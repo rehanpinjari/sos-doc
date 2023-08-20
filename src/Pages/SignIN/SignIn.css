@@ -1,0 +1,48 @@
+.modal {
+    background: url('/media/hp/107 GB Volume1/WebDev/Projects/sos-doc/src/Assests/SignInBG.gif');
+    background-size: cover;
+}
+
+.modal-content {
+    backdrop-filter: blur(15px);
+  background-color: rgba(255,255,255,.2);
+  border-radius: 3em;
+  border: 2px solid rgba(255,255,255,.1);
+  background-clip: padding-box;
+  box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+}
+
+.modal-dialog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons {
+    padding: 2px;
+}
+
+.sign_cta {
+    text-align: start;
+}
+
+.sign_in_p {
+    text-align: center;
+}
+
+._link {
+    text-decoration: none;
+}
+
+.or {
+    text-align: center;
+    font-weight: 550;
+}
+
+.buttons {
+    margin: -1.5rem;
+}
+
+.google_icon_sign {
+    
+}

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+.trusted_title {
+    font-size: 1.3rem;
+    text-align: center;
+    opacity: 0.55;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.trusted_teams {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.col {
+    padding: 1rem 4rem;
+    opacity: 0.8;
+}
+
+.trusted_btn {
+    font-family: 'Exo 2', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn-try {
+    font-family: 'Exo 2', sans-serif;
+
+    background-image: linear-gradient(to right, #35A5E5 0%, #55C1E2 51%, #61CEDA 100%);
+    border: transparent;
+    padding: 8px 16px;
+    text-align: center;
+    transition: 0.4s;
+    background-size: 200% auto;
+    color: white;
+    /* text-shadow: 0px 0px 10px rgb(0 0 0 / 20%); */
+    box-shadow: 0 0 20px #eee;
+    border-radius: 30px;
+}
+
+.btn-try:hover {
+    background-position: right center;
+    color: #eee;
+}
+
+.btn-download {  
+  background: #fff;
+  border: 1px solid;
+  color: #61CEDA;
+  border-color: #61CEDA; 
+  padding: 8px 16px;
+  transition: 0.2s;
+  text-align: center;
+  background-size: 200% auto;
+  /* text-shadow: 0px 0px 10px rgb(0 0 0 / 20%); */
+  box-shadow: 0 0 20px #eee;
+  border-radius: 30px;
+}
+
+.btn-download:hover {
+    background-position: right center;
+    color: #fff;
+    background-image: linear-gradient(to right, #35A5E5 0%, #55C1E2 51%, #61CEDA 100%);;
+}
+
+.btn {
+    margin: 1.5rem 0.5rem;
+
+}
