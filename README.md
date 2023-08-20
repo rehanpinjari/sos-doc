@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact me at prehandev@gmail.com or visit the website ([https://www.sosdoc.com](https://sos-docs.netlify.app/)
+For questions or inquiries, please contact me at prehandev@gmail.com or visit the website ([https://www.sosdoc.com])(https://sos-docs.netlify.app/)
