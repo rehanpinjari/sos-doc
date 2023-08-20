@@ -1,6 +1,6 @@
 # SOS Doc - Document Manager
 
-![SOS Doc Logo](/path/to/logo.png)
+![SOS Doc Logo](/path/to/src/Logo/Sos.png)
 
 SOS Doc is a comprehensive document management system designed to simplify the way you organize, store, and collaborate on documents. Whether you're an individual or a team, SOS Doc provides a user-friendly interface to manage all your files efficiently.
 
